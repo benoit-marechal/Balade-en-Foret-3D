@@ -1,12 +1,18 @@
-> Destiné aux débutants et à but pédagogique, j'ai réalisé ce projet il y a plusieurs années à mes débuts en informatique. Il est donc loin de respecter toutes les règles de l'art en développement et en programmation. Je l'ai conçu avec l'aide d'Anthony Maréchal. N'hésitez pas à corriger, compléter, modifier, ou d'ajouter vos remarques et bonnes pratiques soit par l'intermédiaire de Pull requests ou d'issues, c'est aussi pour ça que je le partage avec la communauté Github 💪 😀.
+# Balade en forêt 3D
 
-Moteur de jeux à la première personne (FPS) et Générateur de terrain 3D en C++ à base de heightmaps.
+Projet étudiant réalisé avec Anthony Maréchal, conservé comme archive pédagogique. Le rapport date de 2007.
 
-Je vous conseille la lecture de la documentation qui explique en détail son fonctionnement.
+Moteur de déplacement à la première personne et générateur de terrain 3D en C++, à partir de cartes de hauteur (heightmaps).
 
-![alt text](screenshot1.png?raw=true "screenshot 1")
-![alt text](screenshot2.png?raw=true "screenshot 2")
-![alt text](screenshot3.png?raw=true "screenshot 3")
-![alt text](screenshot4.png?raw=true "screenshot4")
-![alt text](screenshot5.png?raw=true "screenshot5")
-![alt text](screenshot6.png?raw=true "screenshot6")
+Le [rapport](documentation.pdf) présente le fonctionnement et la réalisation du projet.
+
+## Captures d’écran
+
+![Vue de la forêt 1](screenshot1.png?raw=true "Capture 1")
+![Vue de la forêt 2](screenshot2.png?raw=true "Capture 2")
+![Vue du terrain 3](screenshot3.png?raw=true "Capture 3")
+![Vue du terrain 4](screenshot4.png?raw=true "Capture 4")
+![Vue du terrain 5](screenshot5.png?raw=true "Capture 5")
+![Vue du terrain 6](screenshot6.png?raw=true "Capture 6")
+
+Le projet reflète les outils et pratiques de cette période. Les propositions d’amélioration sont bienvenues dans les issues et les pull requests.
